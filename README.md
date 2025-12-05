@@ -28,10 +28,15 @@ This repository is structured to be simple, readable, and recruiter-friendly, sh
 🛠 Tools & Technologies
 
   Python — Pandas, NumPy, Matplotlib/Seaborn for EDA
+  
   MySQL Server — SQL queries for deeper analytical tasks
+  
   Power BI — Dashboard and data visualization
+  
   Jupyter Notebook — EDA and data cleaning workflow
+  
   Gamma / PPT — Final presentation and storytelling
+  
   GitHub — Version control and project documentation
 
 🔧 Project Steps
