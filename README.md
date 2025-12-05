@@ -82,12 +82,14 @@ Recommendations for business decisions
 
 📊 Dashboard Preview
 The Power BI dashboard provides a complete picture of customer behavior with:
+
  Interactive filters
  Dynamic charts
  Product performance visuals
  Customer segments and trends
 
 ✅ Key Results & Insights
+
   Identified high-value customer groups and buying patterns
   Top-rated and top-selling products highlighted
   Loyal customers show significantly higher lifetime value
