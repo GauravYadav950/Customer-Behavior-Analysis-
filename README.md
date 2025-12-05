@@ -40,23 +40,24 @@ This repository is structured to be simple, readable, and recruiter-friendly, sh
   GitHub — Version control and project documentation
 
 🔧 Project Steps
+
   1. Load the Dataset (Python)
      Import CSV into a Pandas DataFrame
      Inspect structure (info(), describe(), head())
      Check data types and missing values
 
-2. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
   Analyze demographic and behavioral patterns 
   Visualize spending, ratings, and category distributions
   Identify trends and outliers
 
-3. Data Cleaning
+4. Data Cleaning
   Handle missing values
   Fix inconsistent formatting
   Create new features (age groups, purchase frequency, customer segments)
   Encode categorical variables
 
-4. SQL Analytics (MySQL Server)
+5. SQL Analytics (MySQL Server)
   Analytical queries include:
   Revenue comparison by gender
   Top 5 products by rating
@@ -65,7 +66,7 @@ This repository is structured to be simple, readable, and recruiter-friendly, sh
   Discount effectiveness
   Revenue contribution by age group
 
-5. Build the Power BI Dashboard
+6. Build the Power BI Dashboard
 Dashboard includes:
    KPIs (revenue, average order value, customer count)
    Top products & categorie
@@ -73,7 +74,7 @@ Dashboard includes:
    Demographic analysis
    Shipping & discount performance
 
-6. Create Final Report & Presentation
+7. Create Final Report & Presentation
   Using Gamma / PowerPoint, I created a clear business-focused presentation summarizing:
   Key insights
  Visualizations
