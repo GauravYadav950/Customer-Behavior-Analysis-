@@ -27,7 +27,7 @@ This repository is structured to be simple, readable, and recruiter-friendly, sh
 
 🛠 Tools & Technologies
 
-  Python — Pandas, NumPy, Matplotlib/Seaborn for EDA
+  Python — Pandas  for  data loading 
   
   MySQL Server — SQL queries for deeper analytical tasks
   
