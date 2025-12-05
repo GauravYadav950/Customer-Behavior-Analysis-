@@ -125,15 +125,21 @@ Open the Gamma-generated PPT in /presentation/.
 
 📂 Project Structure
 ├── data/
+
 │   └── customer_shopping_behavior.csv
 ├── notebooks/
+
 │   └── EDA_and_Cleaning.ipynb
 ├── sql/
+
 │   └── analytics_queries.sql
 ├── dashboard/
+
 │   └── customer_behavior.pbix
 ├── presentation/
+
 │   └── final_report.pptx
+
 └── README.md
 
 🎯 Conclusion
