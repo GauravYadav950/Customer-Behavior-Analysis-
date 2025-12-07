@@ -124,7 +124,8 @@ Load the .pbix file to view or edit dashboards.
 Open the Gamma-generated PPT in /presentation/.
 
 📂 Project Structure
-├── data
+
+  ├── data
 
    └── customer_shopping_behavior.csv
   ── notebooks
